@@ -1,0 +1,8 @@
+.card-body {
+    display: flex;
+    justify-content: center;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
